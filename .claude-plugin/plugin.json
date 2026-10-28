@@ -1,0 +1,10 @@
+{
+  "name": "story-animator",
+  "version": "1.0.0",
+  "description": "Turn a one-line idea into a narrated 2D animated story video: Claude writes the story, ElevenLabs voices it, and every frame is drawn in code with Remotion.",
+  "author": { "name": "Deenu Khan", "url": "https://www.instagram.com/neuraltech.ai/" },
+  "homepage": "https://github.com/deenukhan/story-animator",
+  "repository": "https://github.com/deenukhan/story-animator",
+  "license": "MIT",
+  "keywords": ["animation", "story", "kids", "remotion", "elevenlabs", "video"]
+}
